@@ -8,7 +8,7 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.remote.server.handler.CaptureScreenshot;
 
-import ru.yandex.qatools.ashot.Screenshot;
+
 
 public class TakeSceenshot {
 
